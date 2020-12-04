@@ -22,6 +22,11 @@
         align-items: center;
         .header__link {
             padding: 0px 5px;
+            text-decoration: none;
+            color: brown;
+        }
+        h1 {
+            color: brown;
         }
     }
 </style>
